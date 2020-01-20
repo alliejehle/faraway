@@ -1,0 +1,258 @@
+body {
+    background-color: #F8F4ED;
+    font-family: 'Work Sans', Arial, Helvetica, sans-serif;
+}
+
+/* ------------- Header content -------------*/ 
+.faraway-logo {
+    display: block;
+    margin: 0 auto;
+    margin-top: 5%;
+    width: 12%; 
+     
+}
+
+.bag-icon {
+    float: right;
+    clear: right;
+}
+
+nav {
+    float: left;
+    width: 1%;
+    margin-left: -1%;
+}
+
+ul {
+    clear: left; 
+    list-style-type: none;
+    margin-top: 5%;
+    line-height: 2.5em;
+}
+
+li {
+    padding-bottom: 10%;
+    list-style-type: none;
+}
+
+li a {
+    color: inherit;
+    text-decoration: none;
+    
+}
+
+li a:hover {
+    color: #7F7762;
+}
+/* ------------- End of Header content -------------*/ 
+
+/* ------------- Images ------------- */ 
+
+.image4 {
+    float: left;
+    margin-left: 9%;
+    margin-top: -7%;
+}
+
+.faraway-gif {
+    clear: left;
+    margin-left: -7%;
+    padding-top: 7%;
+}
+
+.image3 {
+    float: right;
+    margin-right: 18.4%;
+}
+
+.image1 {
+    clear: right;
+    float: right;
+    margin-right: 3%;
+    margin-top: -20.75%;
+}
+
+.description {
+    clear: right;
+    float: right;
+    width: 28%;
+    margin-right: 10%;
+    margin-top: 1%;
+    font-size: 13px;
+    text-align: justify;
+    line-height: 1.5em;
+    clear: right;
+}
+
+.services-cta {
+    clear: right;
+    float: right;
+    width: 28%;
+    margin-right: 10%;
+    margin-top: 1%;
+    font-size: 13px;
+    text-align: justify;
+    line-height: 1.5em;
+    text-decoration: underline;
+    clear: right;
+}
+
+.services-cta a {
+    color: inherit;
+}
+.image5 {
+    clear: right;
+    margin-left: 14%;
+    margin-top: 10.5%;
+}
+
+.image2 {
+    margin-left: 5%;
+    margin-top: -5%;
+    margin-bottom: 8%;
+}
+
+.image6 {
+    float: right;
+    margin-right: 11%;
+    margin-top: -12.8%;
+}
+
+/* ------------- End of Image content -------------*/
+
+/* ------------- Elevator -------------*/
+
+.elevator {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10%;
+    width: 30%;
+    text-align: center;
+    font-size: 17px;
+    line-height: 1.5em;
+}
+
+.work-cta {
+    display: block;
+    margin: 0 auto;
+    margin-top: 1%;
+    width: 5%;
+    font-size: 13px;
+    text-align: center;
+    line-height: 1.5em;
+    text-decoration: underline;
+}
+
+.work-cta a  {
+        color: inherit;      
+}
+
+/* ------------- End of Elevator content -------------*/
+
+/* ------------- Instagram -------------*/
+
+.handle {
+    margin-left: 9%;
+    margin-top: 10%;
+}
+
+.handle p {
+   font-weight: 300;
+    font-size: 18px;
+}
+
+.ig-cta {
+    margin-left: 9%;
+    margin-top: 1%;
+    font-size: 13px;
+    margin-bottom: 15%;
+}
+
+.ig-cta a {
+    color: inherit;
+}
+
+/* ------------- End of Instagram content -------------*/
+
+/* ------------- Footer -------------*/
+
+.footer-faraway-logo {
+    margin-top: 4%;
+    margin-left: 9.5%;
+    width: 15%;
+}
+
+
+.blog {
+    float: right;
+    font-size: 17px;
+    margin-right: 9%;
+    margin-top: 4.5%;
+}
+
+.blog a {
+    color: inherit; 
+    text-decoration: none;
+    
+}
+
+.careers {
+    float: right;
+    font-size: 17px;
+    margin-right: 6%;
+    margin-top: 4.5%;
+}
+
+.careers a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.email-signup {
+    clear: right; 
+    margin-left: 9.5%;
+    margin-top: 1.5%;
+}
+
+.email-signup p {
+
+}
+
+.footer-icons {
+    margin-top: -3%;
+}
+.instagram-logo {
+    float: right;
+    padding-right: 1%;
+
+}
+
+.pinterest-logo {
+    float: right;
+    padding-right: 1%;
+}
+
+.facebook-logo {
+    float: right;
+    padding-right: 1%;
+}
+
+.dribbble-logo {
+    float: right;
+    margin-right: 9.5%;
+    clear: right;
+}
+
+.copyright {
+    display: block;
+    margin: 0 auto;
+    margin-top: 6%;
+    width: 15%;
+    text-align: center;
+    font-size: 17px;
+    line-height: 1.5em;
+}
+
+.footer-hr {
+    margin-bottom: 2%;
+}
